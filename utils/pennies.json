@@ -9,7 +9,8 @@
     "description": "obvious doubling on the fives",
     "side": "obverse",
     "link": "",
-    "image": "1955.png"
+    "image": "1955.png",
+    "strike": "business"
   },
   {
     "year": 1964,
@@ -21,7 +22,8 @@
     "description": "subtle doubling on letters",
     "side": "reverse",
     "link": "",
-    "image": "1964.png"
+    "image": "1964.png",
+    "strike": "business"
   },
   {
     "year": 1969,
@@ -33,7 +35,8 @@
     "description": "obvious doubling on the words and year",
     "side": "obverse",
     "link": "",
-    "image": "1969s.png"
+    "image": "1969s.png",
+    "strike": "business"
   },
   {
     "year": 1971,
@@ -45,7 +48,8 @@
     "description": "subtle shadows on letters",
     "side": "obverse",
     "link": "",
-    "image": "1971.png"
+    "image": "1971.png",
+    "strike": "business"
   },
   {
     "year": 1972,
@@ -57,7 +61,8 @@
     "description": "obvious doubling on the words and year",
     "side": "obverse",
     "link": "",
-    "image": "1972.png"
+    "image": "1972.png",
+    "strike": "business"
   },
   {
     "year": 1980,
@@ -69,7 +74,8 @@
     "description": "subtle shadows on letters",
     "side": "obverse",
     "link": "",
-    "image": "1980.png"
+    "image": "1980.png",
+    "strike": "business"
   },
   {
     "year": 1983,
@@ -81,7 +87,8 @@
     "description": "subtle doubling on letters",
     "side": "reverse",
     "link": "",
-    "image": "1983doubling.png"
+    "image": "1983doubling.png",
+    "strike": "business"
   },
   {
     "year": 1990,
@@ -93,7 +100,8 @@
     "description": "made of copper, weighs 3.1 grams rather than the expected 2.5 g",
     "side": "obverse",
     "link": "",
-    "image": "1990d.png"
+    "image": "1990d.png",
+    "strike": "business"
   },
   {
     "year": 1924,
@@ -105,7 +113,8 @@
     "description": "cud on low side of profile, slightly left",
     "side": "obverse",
     "link": "",
-    "image": "1924d.png"
+    "image": "1924d.png",
+    "strike": "business"
   },
   {
     "year": 1929,
@@ -117,7 +126,8 @@
     "description": "off center, stretched on edges",
     "side": "obverse",
     "link": "",
-    "image": "1929s.[ng"
+    "image": "1929s.[ng",
+    "strike": "business"
   },
   {
     "year": 1935,
@@ -129,7 +139,8 @@
     "description": "off center",
     "side": "obverse",
     "link": "",
-    "image": "1935.png"
+    "image": "1935.png",
+    "strike": "business"
   },
   {
     "year": 1951,
@@ -141,7 +152,8 @@
     "description": "subtly  stretched on edges",
     "side": "obverse",
     "link": "",
-    "image": "1951d.png"
+    "image": "1951d.png",
+    "strike": "business"
   },
   {
     "year": 1972,
@@ -153,6 +165,281 @@
     "description": "lower left cud, faded on opposite side",
     "side": "obverse",
     "link": "",
-    "image": "1972d.png"
+    "image": "1972d.png",
+    "strike": "business"
+  },
+
+  {
+    "year": 1970,
+    "mintage": "San Francisco",
+    "mark": "S",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "double die",
+    "description": "doubling on front, LARGE date",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": 1970,
+    "mintage": "San Francisco",
+    "mark": "S",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "repunched mintmark",
+    "description": "doubled s mark",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": 1971,
+    "mintage": "Denver",
+    "mark": "D",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "overpolished die",
+    "description": "missing 'L' in LIBERTY",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": 1971,
+    "mintage": "Denver",
+    "mark": "D",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "split before strike",
+    "description": "damaged appearance, kinda scratched out",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": 1973,
+    "mintage": "Philadelphia",
+    "mark": "",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "capped die",
+    "description": "looks corroded on one side",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": 1992,
+    "mintage": "any",
+    "mark": "(D)",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "close AM",
+    "description": "A and M in 'AMERICA' are almost touching, but look for WIDE AM on proof",
+    "side": "reverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": 1994,
+    "mintage": "Philadelphia",
+    "mark": "",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "double die",
+    "description": "doubling between pillars",
+    "side": "reverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": 1995,
+    "mintage": "Philadelphia",
+    "mark": "",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "double die",
+    "description": "obvious doubling on the words and year",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": 1997,
+    "mintage": "Denver",
+    "mark": "D",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "planchet",
+    "description": "struck on foreign planchet, weighs 1.9g instead of 2.5g, 'TRUST' is cut off, off center",
+    "side": "both",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": 1997,
+    "mintage": "Philadelphia",
+    "mark": "",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "double die",
+    "description": "lincoln's ear is doubled",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": 1998,
+    "mintage": "Philadelphia",
+    "mark": "",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "wide am",
+    "description": "gap between A and M in 'AMERICA', but look for CLOSE AM on proof",
+    "side": "reverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": 1999,
+    "mintage": "Philadelphia",
+    "mark": "",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "mule",
+    "description": "dime design on the back",
+    "side": "reverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": 1999,
+    "mintage": "",
+    "mark": "",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "wide am",
+    "description": "gap between A and M in 'AMERICA', but look for CLOSE AM on proof",
+    "side": "reverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": "2006",
+    "mintage": "Philadelphia",
+    "mark": "",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "double die",
+    "description": "sublte-ish doubling on words and letters",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": "2009",
+    "mintage": "Philadelphia",
+    "mark": "",
+    "coin": "penny",
+    "series": "Lincoln Formative Years",
+    "error": "double die",
+    "description": "doubling on either/all: thumb, pinky, the hand holding book",
+    "side": "reverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": "2006",
+    "mintage": "Philadelphia",
+    "mark": "",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "double die",
+    "description": "sublte-ish doubling on words and letters",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": "1990",
+    "mintage": "Denver",
+    "mark": "D",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "repunched mintmark",
+    "description": "faint 'D' mark over visible 'D', can be very subtle",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": "1971",
+    "mintage": "San Francisco",
+    "mark": "S",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "double die",
+    "description": "possibly subtle doubling on words and letters",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": "1984",
+    "mintage": "Philadelphia",
+    "mark": "",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "double die",
+    "description": "doubling on ear",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
+  },
+  {
+    "year": "2006",
+    "mintage": "San Francisco",
+    "mark": "",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "missing mintmark",
+    "description": "proof coin missing its 'S' mint mark",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "proof"
+  },
+  {
+    "year": "1996",
+    "mintage": "Philadelphia",
+    "mark": "",
+    "coin": "penny",
+    "series": "Lincoln Memorial",
+    "error": "wide am",
+    "description": "gap between A and M in 'AMERICA', but look for CLOSE AM on proof",
+    "side": "obverse",
+    "link": "",
+    "image": "",
+    "strike": "business"
   }
 ]
