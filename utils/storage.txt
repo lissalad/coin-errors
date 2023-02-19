@@ -1,0 +1,13 @@
+,
+  {
+    "year": ,
+    "mintage": "",
+    "mark": "",
+    "coin": "penny",
+    "series": "",
+    "error": "",
+    "description": "",
+    "side": "",
+    "link": "",
+    "image": ""
+  }
